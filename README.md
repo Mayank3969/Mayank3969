@@ -26,8 +26,6 @@ What drives me is clarity — understanding why something works, not just how. I
 - Improving problem-solving skills using **C++**
 - Writing cleaner, more structured Python code
 
----
-
 </div>
 
 ## 🚀 Projects
@@ -35,11 +33,7 @@ What drives me is clarity — understanding why something works, not just how. I
 | Project | Description | Links |
 |---|---|---|
 | File Cmpressor | Uses Huffman encoding to compress a file. I saves upto 40% of space required to store any text file. | [GitHub](https://github.com/Mayank3969/File-Compress) |
-| Website Blocker for Windows | Blocks the website of provided  ips via microsoft defender. It consist of 3 parts-
-1. Block given ips from list
-2. Fetch ips from the website list and store in ip list
-3. Directly block url of given website.
-As websites uses multiple ips and change them frequently the first two may or may not work but later works completely fine to block any given website. | [GitHub](https://github.com/Mayank3969/ip-blocker ) |
+| Website Blocker for Windows | Blocks the website of provided  ips/url via microsoft defender. | [GitHub](https://github.com/Mayank3969/ip-blocker ) |
 
 ### File Cmpressor
 
@@ -48,8 +42,6 @@ As websites uses multiple ips and change them frequently the first two may or ma
 ### Website Blocker for Windows
 
 **Technologies Used:** Python
-
-> I prioritize **few well-understood projects** over many shallow ones.
 
 ## 🎓 Education
 
