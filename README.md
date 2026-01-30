@@ -115,15 +115,7 @@ Currently pursuing a B.Tech in Computer Science with a focus on core CS fundamen
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Mayank3969&label=Profile%20Visitors&color=blueviolet&style=flat-square)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Mayank3969&theme=onedark&column=7&margin-w=15&margin-h=15)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank3969&layout=compact&theme=radical&langs_count=10)
-
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/Mayank3969?theme=light)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayank3969&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
